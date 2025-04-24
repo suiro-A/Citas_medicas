@@ -19,7 +19,9 @@ PROYECTO DE KEVIN
 ![image](https://github.com/user-attachments/assets/c1bb2ed8-b172-4d26-8ffc-9c4e9ee2775a)
 ![image](https://github.com/user-attachments/assets/44f9b525-dc62-4200-ae48-378c496083f8)
 
-5. Por ultimo solo basta correr el XAMPP el Apache y MySQL y abrir el siguiente nombre => http://localhost/citas_medicas/login.php
+5. Por ultimo solo basta correr el XAMPP el Apache y MySQL y abrir el siguiente nombre => http://localhost/citas_medicas/login.php  u http://localhost/citas_medicas/index.php
+
    Usuario: Admin
+   
    Contraseña: 11111
 
